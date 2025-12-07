@@ -1,8 +1,3 @@
-"""
-Multi-User Network File System Simulator
-Supports multiple users with isolated file systems
-"""
-
 import os
 import json
 from datetime import datetime

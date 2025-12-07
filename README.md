@@ -1,7 +1,3 @@
-# Network File System Simulator
-
-A multi-user network file system with an interactive terminal interface.
-
 ## Usage
 
 Run the terminal simulator:
